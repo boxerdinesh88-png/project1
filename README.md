@@ -1,2 +1,2 @@
 # project1
-This is a project  hotel chain
+This is a project  hotel chain.
